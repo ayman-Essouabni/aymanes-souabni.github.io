@@ -348,3 +348,10 @@ section{
  .rocket{
     color: #000;
  }
+
+/* i did this modofication so the card with the tel  and the card with the maiil will do an automatic call/mail when is clicked */
+ 
+ .card .tel-mail{
+    all: unset;
+    cursor:pointer;
+ }
