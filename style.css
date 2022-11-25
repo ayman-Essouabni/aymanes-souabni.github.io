@@ -352,6 +352,6 @@ section{
 /* i did this modofication so the card with the tel  and the card with the maiil will do an automatic call/mail when is clicked */
  
  .card .tel-mail{
-    text-decoration: none;
+    all: unset;
     cursor:pointer;
  }
